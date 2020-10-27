@@ -101,7 +101,7 @@ namespace loginekran
                     }
                     else
                     {
-                        Console.WriteLine("Lütfen sadece 0'ı veya 1'i tuşlaynıız.");
+                        Console.WriteLine("Lütfen sadece 0'ı veya 1'i tuşlayınız.");
                         Console.ReadKey();
                     }
 
